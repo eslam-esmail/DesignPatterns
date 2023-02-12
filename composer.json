@@ -1,0 +1,12 @@
+{
+    "name": "eslam/design-patterns",
+    "description": "some of design patterns",
+    "autoload": {
+        "psr-4": {
+            "Creational\\": "Creational"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "7.3.0"
+    }
+}
